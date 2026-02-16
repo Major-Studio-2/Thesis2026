@@ -3,21 +3,22 @@
 
 ## Outline
 
-### Question: 
-How has Louis Armstrong’s legacy been represented over time? What has allowed his impact on American culture to endure for so long? And why should his influence both as a groundbreaking artist and as an informal ambassador of the United States receive greater recognition than it often does?
+### Questions: 
+How has Louis Armstrong’s legacy been represented over time? 
+What has allowed his impact on American culture to endure for so long? 
+And why should his influence both as a groundbreaking artist and as an informal ambassador of the United States receive greater recognition than it often does?
+Who is Louis Armstrong as one of the first ‘Jazz’ artists?
+What is Jazz and why is it the greatest genre and type of music to originate from America?
+Louis Armstrongs’s childhood and his significant impact on music, blues, jazz, pop and all that followed. As the first Black pop star.
 
 ### Significance: 
 Louis Armstrong was a genius and his career and life was multifaceted, yet most remember him only as a musician. As the first "Black Pop" star that set the stage for many black and white artists that followed he is remembered for one facet of his life.
 
 ### Purpose: 
 Help bring awareness to the anatomy of an artist like Louis Armstrong and the important contributions to culture, history and art that he made that was foundational to the U.S. and made America a place to be admired and respected.
-Table of Contents
 
-### Introduction
-Who is Louis Armstrong as one of the first ‘Jazz’ artists
-What is Jazz and why is it the greatest genre and type of music to originate from America?
-Louis Armstrongs’s childhood and his significant impact on music, blues, jazz, pop and all that followed. As the first Black pop star.
 
+### Table of Contents
 ### Treatment
 #### 1. A multi-faceted life. Examples of each category (as data visualizations):
 Musician
