@@ -44,12 +44,15 @@ The organizations that honor him
 How is he remembered today and how should we remember him?
 
 ### Sources 
-Louis Armstrong House Museum
-Louis Armstrong Educational Foundation
-Smithsonian National Museum of African American History & Culture
-Schomburg Center for Research
-Public-domain audio archives 1900-1925
+Louis Armstrong House Museum<br>
+Louis Armstrong Educational Foundation<br>
+Smithsonian National Museum of African American History & Culture<br>
+Schomburg Center for Research<br>
+Public-domain audio archives 1900-1925<br>
+"Stomp Off, Let's Go: The Early Years of Louis Armstrong," Ricky Riccadi.  
+"What a Wonderful World: The Magic of Louis Armstrong's Later Years", Ricky Riccadi.
 
+# Introduction & Abstract 
 
 ## Introduction
 This thesis and accompanying data visualization project examine how Louis Armstrong’s legacy has been represented, remembered, and sustained over time. His legacy is reimagined and reassessed to highlight his multi-faceted artistry and its enormity that deserves more credit than it has been given. While Armstrong is widely celebrated as a pioneering jazz musician, this project argues that his cultural impact extends far beyond music. As one of the first Black global pop stars, opening the doors to Black entertainers, an ambassador of the United States, and a major cultural figure of his time, Armstrong played a foundational role in shaping twentieth century American identity, artistic innovation, and international diplomacy.
