@@ -2,9 +2,7 @@
 
 ### Louis Armstrong’s Life in 2000 Facts
 
-Description: Louis Armstrong’s life as 2000 facts that on hover can be discovered. Facts are masked around an iconic silhouette of Louis Armstrong’s head and shoulders. Facts are searchable.
-
-Louis Armstrong's name is recognized bit most do not know who he was and what he accomplsied throughtout his life and beyond. This visualization will show who Armstrong is through facts that are well-knowand other facts that most are not aware of.
+Description: Louis Armstrong’s life as 2000 facts that on hover can be discovered. Facts are masked around an iconic silhouette of Louis Armstrong’s head and shoulders. Facts are searchable. Louis Armstrong's name is recognized but most do not know who he was and what he accomplsied throughtout his life and beyond. This visualization will show who Armstrong is through facts that are well known and other facts that less commonly known.
 
 ![Facts of Louis Armstrong](public/sketches/facts.jpg)
 
