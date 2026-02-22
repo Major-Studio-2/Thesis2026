@@ -8,7 +8,7 @@
 
 Description: This visualization presents a vertical timeline from 1770 to 1810, showing when artworks were created in four mediums: watercolor, oil, pencil, and prints. Viewers can filter by medium to see how each type of painting appears across the decades, offering a clear view of artistic practices during the Revolutionary era and its aftermath.
 
-![Timeline with Tooltip: Paintings Details](public/sketches/facts.png)
+![Timeline with Tooltip: Paintings Details](public/sketches/facts.jpg)
 <br />
 
 ![Timeline with Artwork Preview: Paintings by Medium](screenshots/screenshot2.png)
