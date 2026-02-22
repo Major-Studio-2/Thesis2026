@@ -1,28 +1,27 @@
 # Sketches and Visualizations for Thesis
 
-## Quantitative Visualization
+### Louis Armstrong’s Life in 2000 Facts
 
-### Facts
+Description: Louis Armstrong’s life as 2000 facts that on hover can be discovered. Facts are masked around an iconic silhouette of Louis Armstrong’s head and shoulders. Facts are searchable.
 
-Louis Armstrong’s life as 2000 facts that on hover can be discovered. Facts are masked around an iconic silhouette of Louis Armstrong’s head and shoulders. Facts are searchable.
+Louis Armstrong's name is recognized bit most do not know who he was and what he accomplsied throughtout his life and beyond. This visualization will show who Armstrong is through facts that are well-knowand other facts that most are not aware of.
 
 ![Facts of Louis Armstrong](public/sketches/facts.jpg)
 
 ### Map
 
-Description: .
+Description: The enormity of Louis Armstrong's life and influence across time and space. He performed in many cities across the world and his influence is still felt today. This map will show the locations of Armstrong's performances and the influence he had on other musicians and artists.
 
 ![Facts of Louis Armstrong](public/sketches/map.jpg)
 
 ### Timeline
 
-Description: .
+Description: The chronological journey of Louis Armstrong's life and career. This timeline will show the key events in Armstrong's life, including his birth, early life, career milestones, and legacy. It will also show the role history played on decisions Louis Armstrong made. With events such as the Great Depression, World War II, and the Civil Rights Movement, Armstrong's life and career were shaped by the historical context in which he lived. This timeline will show how these events influenced Armstrong's decisions and how he navigated the challenges of his time.
 
 ![Map of Itinerary and Facts:](public/sketches/timeline.jpg)
 
 ### Virtual Curation
 
-Description: .
+Description: This data visualization presents Louis Armstrong's life and work in an interactive virtual curation format. Users can explore his musical legacy through curated collections of performances, recordings, and historical artifacts.
 
 ![Sketch:](public/sketches/virtual-curation.jpg)
-<br />
