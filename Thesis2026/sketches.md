@@ -31,3 +31,10 @@ Description: The chronological journey of Louis Armstrong's life and career. Thi
 Description: This data visualization presents Louis Armstrong's life and work in an interactive virtual curation format. Users can explore his musical legacy through curated collections of performances, recordings, and historical artifacts.
 
 ![Sketch:](public/sketches/virtual-curation.jpg)
+
+## The Louis Armstrong Ripple Effect: A Network of Influence
+#### Visualization: network graph
+
+Description: This visualization shows Louis Armstrong’s legacy as a single continuous sound wave. Each vertical bar represents one original song, arranged chronologically, with the height indicating how many cover versions it has generated. Larger bars reflect songs with greater cultural resonance. Together, the waveform illustrates how his music continues to echo across generations.
+
+![Sketch:](public/sketches/virtual-wave.jpg)
