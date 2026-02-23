@@ -1,8 +1,10 @@
 ### Sketches and Visualizations for Thesis
 
-# Louis Armstrong - Anatomy of an Artist
+# Anatomy of an Artist
 
-## Louis Armstrong’s: A Data Portrait in 2000 Facts
+<br>
+
+## Louis Armstrong: A Data Portrait in 2000 Facts
 #### Visualization: custom
 
 Description: Louis Armstrong’s life as 2000 facts that on hover can be discovered. Facts are masked around an iconic silhouette of Louis Armstrong’s head and shoulders. Facts are searchable. Louis Armstrong's name is recognized but most do not know who he was and what he accomplsied throughtout his life and beyond. This visualization will show who Armstrong is through facts that are well known and other facts that less commonly known.
